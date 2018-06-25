@@ -1,0 +1,9 @@
+spring:
+    #热部署配置
+    devtools:
+        restart:
+            enabled: false
+        livereload:
+            enabled: false
+server:
+  port: 8086
